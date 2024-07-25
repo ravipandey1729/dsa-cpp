@@ -9,7 +9,7 @@ int main()
     int step = 0;
     while(step<4)
         switch(step)
-        case 0:
+     
                     
         
 }
